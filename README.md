@@ -8,6 +8,7 @@
 ```lua
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/anhtlauncher/Elerium-IMGUI-/main/main.lua")()
 ```
+```
 Function Map:
 library: {
 	AddWindow(<string> title, <table> options [optional])
