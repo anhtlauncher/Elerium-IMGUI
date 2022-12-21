@@ -6,7 +6,7 @@
 - Hello, and welcome to this documentation document! This will briefly cover all the necessary steps, you need to create a nice UI. :) 
 - The main variable you will be using is called ("library").
 ```lua
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/anhtlauncher/Elerium-IMGUI/main/main.lua")()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/anhtlauncher/Elerium-IMGUI/main/main.lua"))()
 ```
 ```
 Function Map:
