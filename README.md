@@ -1,11 +1,12 @@
 # Elerium
 ![image](https://user-images.githubusercontent.com/83477843/183229086-76838894-4870-4a12-9d8b-49e158ba2564.png)
-\n
-This is a copy of Elerium UI Library V2 that is ImGUI styled
-# Documentation
-Hello, and welcome to this documentation document! This will briefly cover all the necessary steps, you need to create a nice UI. :) \n
-The main variable you will be using is called ("library"). \n
 
+- This is a copy of Elerium UI Library V2 that is ImGUI styled
+# Documentation
+- Hello, and welcome to this documentation document! This will briefly cover all the necessary steps, you need to create a nice UI. :) 
+- The main variable you will be using is called ("library").
+```lua
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/anhtlauncher/Elerium-IMGUI-/main/main.lua")()
 ```
 Function Map:
 library: {
